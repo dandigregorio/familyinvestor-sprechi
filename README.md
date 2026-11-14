@@ -30,11 +30,38 @@ Lavora sui **tuoi** numeri: puoi caricare un estratto conto (oscura prima IBAN e
 
 ## Come installarla
 
-1. Scarica lo zip della skill: **[family-investor-libera-il-denaro.zip](https://github.com/dandigregorio/familyinvestor-sprechi/raw/main/family-investor-libera-il-denaro.zip)**
-2. Su [claude.ai](https://claude.ai) apri le **Impostazioni**, vai nella sezione dedicata alle **Skill** e carica lo zip.
-3. In una nuova chat scrivi: *"Aiutami a trovare i miei sprechi"*.
+### Prima di iniziare
 
-In alternativa trovi il file della skill qui nel repository: [`family-investor-libera-il-denaro/SKILL.md`](family-investor-libera-il-denaro/SKILL.md).
+- Serve un piano Claude **a pagamento** (Pro, Max, Team o Enterprise): con il piano gratuito l'opzione per caricare skill non compare.
+- Nelle Impostazioni, sezione **Funzionalità**, l'esecuzione del codice deve essere attiva.
+- Fai l'installazione **da computer** (sito claude.ai o app desktop). Una volta installata, la skill funziona anche dall'app sul telefono.
+
+### Su claude.ai o sull'app desktop (la strada per tutti)
+
+1. Scarica lo zip della skill: **[family-investor-libera-il-denaro.zip](https://github.com/dandigregorio/familyinvestor-sprechi/raw/main/family-investor-libera-il-denaro.zip)**
+   ⚠️ **Non aprirlo e non estrarlo**: va caricato così com'è.
+2. Apri Claude e vai in **Impostazioni → Personalizzazione → Skills**.
+3. Clicca **+ Aggiungi** e scegli l'opzione per caricare una skill, poi seleziona lo zip.
+4. Controlla che la skill compaia nell'elenco e che il suo interruttore sia **acceso**.
+5. Apri una nuova chat e scrivi: *"Aiutami a trovare i miei sprechi"*.
+
+### Su Claude Code (per utenti tecnici)
+
+Scrivi questi due comandi:
+
+```
+/plugin marketplace add dandigregorio/familyinvestor-sprechi
+/plugin install libera-il-denaro@familyinvestor
+```
+
+## Aggiornamenti
+
+Ogni tanto la skill viene migliorata. L'ultima versione è sempre il file zip qui sopra.
+
+- **claude.ai / app desktop:** non si aggiorna da sola. Scarica di nuovo lo zip e caricalo al posto di quello vecchio.
+- **Claude Code:** basta il comando `/plugin marketplace update`.
+
+Il file della skill si può leggere anche direttamente qui: [`family-investor-libera-il-denaro/SKILL.md`](family-investor-libera-il-denaro/SKILL.md).
 
 ## E dopo?
 

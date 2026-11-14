@@ -1,0 +1,22 @@
+{
+  "name": "familyinvestor",
+  "owner": {
+    "name": "Daniele Di Gregorio",
+    "url": "https://familyinvestor.it"
+  },
+  "metadata": {
+    "description": "Skill del metodo Family Investor di Daniele Di Gregorio",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "libera-il-denaro",
+      "description": "Caccia agli sprechi del bilancio familiare col metodo Family Investor (Pilastro 1)",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./family-investor-libera-il-denaro"
+      ]
+    }
+  ]
+}
