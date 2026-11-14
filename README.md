@@ -41,7 +41,7 @@ Lavora sui **tuoi** numeri: puoi caricare un estratto conto (oscura prima IBAN e
 1. Scarica lo zip della skill: **[family-investor-libera-il-denaro.zip](https://github.com/dandigregorio/familyinvestor-sprechi/raw/main/family-investor-libera-il-denaro.zip)**
    ⚠️ **Non aprirlo e non estrarlo**: va caricato così com'è.
 2. Apri Claude e vai in **Impostazioni → Personalizzazione → Skills**.
-3. Clicca **+ Aggiungi** e scegli l'opzione per caricare una skill, poi seleziona lo zip.
+3. Clicca **+ Aggiungi**, scegli **Carica Skill** e seleziona lo zip.
 4. Controlla che la skill compaia nell'elenco e che il suo interruttore sia **acceso**.
 5. Apri una nuova chat e scrivi: *"Aiutami a trovare i miei sprechi"*.
 
