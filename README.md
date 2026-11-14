@@ -38,7 +38,7 @@ Lavora sui **tuoi** numeri: puoi caricare un estratto conto (oscura prima IBAN e
 
 ### Su claude.ai o sull'app desktop (la strada per tutti)
 
-1. Scarica lo zip della skill: **[family-investor-libera-il-denaro.zip](https://github.com/dandigregorio/familyinvestor-sprechi/raw/main/family-investor-libera-il-denaro.zip)**
+1. Scarica lo zip della skill: **[familyinvestor-sprechi.zip](https://github.com/dandigregorio/familyinvestor-sprechi/raw/main/familyinvestor-sprechi.zip)**
    ⚠️ **Non aprirlo e non estrarlo**: va caricato così com'è.
 2. Apri Claude e vai in **Impostazioni → Personalizzazione → Skills**.
 3. Clicca **+ Aggiungi**, scegli **Carica Skill** e seleziona lo zip.
@@ -51,7 +51,7 @@ Scrivi questi due comandi:
 
 ```
 /plugin marketplace add dandigregorio/familyinvestor-sprechi
-/plugin install libera-il-denaro@familyinvestor
+/plugin install familyinvestor-sprechi@familyinvestor
 ```
 
 ## Aggiornamenti
@@ -61,7 +61,7 @@ Ogni tanto la skill viene migliorata. L'ultima versione è sempre il file zip qu
 - **claude.ai / app desktop:** non si aggiorna da sola. Scarica di nuovo lo zip e caricalo al posto di quello vecchio.
 - **Claude Code:** basta il comando `/plugin marketplace update`.
 
-Il file della skill si può leggere anche direttamente qui: [`family-investor-libera-il-denaro/SKILL.md`](family-investor-libera-il-denaro/SKILL.md).
+Il file della skill si può leggere anche direttamente qui: [`familyinvestor-sprechi/SKILL.md`](familyinvestor-sprechi/SKILL.md).
 
 ## E dopo?
 

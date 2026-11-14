@@ -1,5 +1,5 @@
 ---
-name: "family-investor-libera-il-denaro"
+name: "familyinvestor-sprechi"
 description: "Caccia agli sprechi del bilancio familiare col metodo del libro di Daniele Di Gregorio (FamilyInvestor.it, Pilastro 1): conto, utenze, abbonamenti, acquisti e altro. Usare per 'dove sto sprecando soldi'."
 ---
 

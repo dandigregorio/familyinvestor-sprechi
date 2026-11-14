@@ -10,12 +10,12 @@
   },
   "plugins": [
     {
-      "name": "libera-il-denaro",
+      "name": "familyinvestor-sprechi",
       "description": "Caccia agli sprechi del bilancio familiare col metodo Family Investor (Pilastro 1)",
       "source": "./",
       "strict": false,
       "skills": [
-        "./family-investor-libera-il-denaro"
+        "./familyinvestor-sprechi"
       ]
     }
   ]
